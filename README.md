@@ -1,4 +1,4 @@
-# learning-git
+# Git and Github Essentials
 
 ## Learning Git essenitals via amigoscode.com
 
