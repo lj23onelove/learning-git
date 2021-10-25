@@ -1,6 +1,6 @@
 # Git and Github Essentials
 
-## Learning Git essenitals via amigoscode.com
+## Learning Git essentials via amigoscode.com
 
 https://amigoscode.com/courses/git-github
 
